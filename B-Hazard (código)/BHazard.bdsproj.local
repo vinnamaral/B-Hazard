@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2007/02/12 10:07:49.015.pas,D:\Meus documentos\Borland Studio Projects\Unit1.pas=D:\Meus documentos\Borland Studio Projects\Controle\Controle.pas</Transaction>
+    <Transaction>2007/02/12 10:07:49.015.dfm,D:\Meus documentos\Borland Studio Projects\Unit1.dfm=D:\Meus documentos\Borland Studio Projects\Controle\Controle.dfm</Transaction>
+    <Transaction>2007/02/12 10:08:04.562.bdsproj,D:\Meus documentos\Borland Studio Projects\Project1.bdsproj=D:\Meus documentos\Borland Studio Projects\Controle\ProjControle.bdsproj</Transaction>
+    <Transaction>2007/02/12 10:08:18.875.pas,D:\Meus documentos\Borland Studio Projects\Controle\Controle.pas=D:\Meus documentos\Borland Studio Projects\Controle\ufrmPrincipal.pas</Transaction>
+    <Transaction>2007/02/12 10:08:18.875.dfm,D:\Meus documentos\Borland Studio Projects\Controle\Controle.dfm=D:\Meus documentos\Borland Studio Projects\Controle\ufrmPrincipal.dfm</Transaction>
+    <Transaction>2007/02/12 10:37:12.984.pas,D:\Meus documentos\Borland Studio Projects\Controle\Unit2.pas=D:\Meus documentos\Borland Studio Projects\Controle\ufrmCd.pas</Transaction>
+    <Transaction>2007/02/12 10:37:12.984.dfm,D:\Meus documentos\Borland Studio Projects\Controle\Unit2.dfm=D:\Meus documentos\Borland Studio Projects\Controle\ufrmCd.dfm</Transaction>
+    <Transaction>2007/02/12 13:27:26.328.pas,D:\Meus documentos\Borland Studio Projects\Controle\Unit1.pas=D:\Meus documentos\Borland Studio Projects\Controle\dmConexoes.pas</Transaction>
+    <Transaction>2007/02/12 13:27:26.328.dfm,D:\Meus documentos\Borland Studio Projects\Controle\Unit1.dfm=D:\Meus documentos\Borland Studio Projects\Controle\dmConexoes.dfm</Transaction>
+    <Transaction>2007/02/15 09:05:31.312.pas,D:\Meus documentos\Borland Studio Projects\Controle\Unit1.pas=D:\Meus documentos\Borland Studio Projects\Controle\ufrmLivros.pas</Transaction>
+    <Transaction>2007/02/15 09:05:31.312.dfm,D:\Meus documentos\Borland Studio Projects\Controle\Unit1.dfm=D:\Meus documentos\Borland Studio Projects\Controle\ufrmLivros.dfm</Transaction>
+    <Transaction>2007/02/15 09:08:33.765.pas,D:\Meus documentos\Borland Studio Projects\Controle\ufrmLivros.pas=</Transaction>
+    <Transaction>2007/02/15 09:08:33.765.dfm,D:\Meus documentos\Borland Studio Projects\Controle\ufrmLivros.dfm=</Transaction>
+    <Transaction>2007/03/08 15:42:32.984.bdsproj,d:\Borland Studio Projects\B-Hazard\ProjControle.bdsproj=d:\Borland Studio Projects\B-Hazard\BHazard.bdsproj</Transaction>
+  </Transactions>
+</BorlandProject>
